@@ -4,6 +4,6 @@
     <title>Document</title>
   </head>
   <body>
-    input type="tetx"/>
+    <input type="tetx"/>
   </body>
 </html>
